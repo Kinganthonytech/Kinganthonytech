@@ -1,16 +1,20 @@
-## Hi there 👋
+# King Anthony
 
-<!--
-**Kinganthonytech/Kinganthonytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**M365 Administrator · Technical Documentation · PowerShell**
 
-Here are some ideas to get you started:
+I make Microsoft 365 environments work — then document them so 
+anyone can understand how. Entra ID, Exchange Online, Intune, 
+automation via PowerShell. Configuration-as-code or it didn't happen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📝 Latest series
+**[Dual-Booting Linux Mint XFCE on a Machine That Barely Runs Windows: A 4-Part Documentation Series]**
+<!-- link: https://kinganthony.tech/blog/ (swap in Part 1 URL when live) -->
+
+### 🔧 Currently building
+Microsoft 365 lab documentation — Conditional Access, Entra ID 
+governance, email authentication (DKIM/DMARC/SPF), and PowerShell 
+tooling. Published as I build.
+
+### 📫 Contact
+- 🌐 [kinganthony.tech](https://kinganthony.tech)
+- ✉️ Hello@kinganthony.tech
