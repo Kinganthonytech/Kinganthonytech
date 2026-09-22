@@ -17,4 +17,4 @@ tooling. Published as I build.
 
 ### 📫 Contact
 - 🌐 [kinganthony.tech](https://kinganthony.tech)
-- ✉️ Hello@kinganthony.tech
+- ✉️ [hello@kinganthony.tech](mailto:hello@kinganthony.tech)
